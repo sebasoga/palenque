@@ -1,5 +1,8 @@
 # Palenque
 
+[![Build
+Status](https://travis-ci.org/sebasoga/palenque.png?branch=master)](https://travis-ci.org/sebasoga/palenque)
+
 Tiny library to check is an Integer or String is palindrome.
 
 This was done as part of a short presentation at the [Bogota Ruby Meetup](http://www.meetup.com/bogota-ruby-meetup/events/153932032/) about creating Ruby Gems, slides are [here](https://speakerdeck.com/sebasoga/building-a-ruby-gem).
