@@ -2,6 +2,8 @@
 
 [![Build
 Status](https://travis-ci.org/sebasoga/palenque.png?branch=master)](https://travis-ci.org/sebasoga/palenque)
+[![Code
+Climate](https://codeclimate.com/github/sebasoga/palenque.png)](https://codeclimate.com/github/sebasoga/palenque)
 
 Tiny library to check is an Integer or String is palindrome.
 
