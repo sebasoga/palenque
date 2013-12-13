@@ -33,7 +33,7 @@ describe Palenque do
     end
   end
 
-  context "when the argument is not a String" do
+  context "when the argument is not a String or an Integer" do
     it "returns false" do
         expect(Palenque.palindrome? [1, 2, 3]).to be_false
         expect(Palenque.palindrome? nil).to be_false
