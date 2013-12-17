@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.version       = Palenque::VERSION
   spec.authors       = ["Sebastian Sogamoso"]
   spec.email         = ["sebasoga@gmail.com"]
-  spec.description   = %q{Checks if an Integer or a Stting object is palindrome}
+  spec.description   = %q{Checks if an Integer or a String object is palindrome}
   spec.summary       = %q{Recevies any object, if the object is an Integer or a String it checks whether it is palindrome or not }
   spec.homepage      = "https://github.com/sebasoga/palenque"
   spec.license       = "MIT"
