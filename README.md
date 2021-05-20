@@ -29,9 +29,8 @@ Or install it yourself as:
 Palenque.palindrome?('Radar')         # => true 
 Palenque.palindrome?(45654)           # => true 
 
-# It receives any type of object
-Palenque.palindrome?('meetup')        # => false
-Palenque.palindrome?([1, 2, 3])       # => false
+# It always returns false for any other type of object
+Palenque.palindrome?([1, 2, 1])       # => false
 Palenque.palindrome?(nil)             # => false
 ````
 
